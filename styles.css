@@ -45,7 +45,7 @@ top: 100px;
 
 .bottomcloud {
 position: absolute;
-left: 300px;
+left: 250px;
 bottom: 300px;
 }
 
@@ -62,7 +62,7 @@ bottom: 300px;
 }
 
 .containertwo {
-  width: 50%;
+  width: 60%;
   margin: 70px auto 50px auto;
  }
 
@@ -79,7 +79,7 @@ bottom: 300px;
  }
 
 .containerthree {
-  width: 50%;
+  width: 60%;
   margin: 100px auto 100px auto;
 }
 
@@ -105,7 +105,7 @@ bottom: 300px;
 }
 
 .contact {
-  width:50%;
+  width:60%;
   margin: 10px auto 10px auto;
 }
 
