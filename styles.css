@@ -1,0 +1,116 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+.name{
+  font-family: monospace;
+}
+
+h1{
+  margin: 20px 0 20px 0;
+  font-size: 2.5rem;
+  color:#66BFBF;
+}
+
+h2 {
+font-size: 1.5rem;
+color:#66BFBF;
+font-weight: normal;
+}
+
+h3{
+  font-size: 1.5rem;
+  color:#66BFBF;
+}
+
+hr {
+  border:none;
+  border-top:5px dotted #aae4e1;
+  background-color:inherit;
+  width:40%;
+}
+
+.containerone {
+  background-color: #aeefec;
+  position: relative;
+  padding-top: 220px;
+}
+
+.topcloud {
+position: absolute;
+right: 300px;
+top: 100px;
+}
+
+.bottomcloud {
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+
+.sun {
+  position: absolute;
+  left: 70px;
+  top: 50px;
+}
+
+.two {
+  margin-top: 0;
+  background-color:#aeefec;
+  padding: 10px 0 10px 0;
+}
+
+.containertwo {
+  width: 50%;
+  margin: 70px auto 50px auto;
+ }
+
+.how {
+  width: 24%;
+  float: left;
+  margin-right: 30px;
+}
+
+ .his {
+   font-family: monospace;
+   line-height: 2;
+   text-align: left;
+ }
+
+.containerthree {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.ass {
+  width: 24%;
+  float: right;
+  margin-left: 30px;
+}
+
+ .aspi {
+   font-family: monospace;
+   line-height: 2;
+   text-align: left;
+ }
+
+.containerfour {
+  background-color: #aeefec;
+  margin: 0 auto 0 auto;
+  padding: 40px 0 50px 0
+}
+.mail {
+  margin-bottom: 0;
+}
+
+.contact {
+  width:50%;
+  margin: 10px auto 10px auto;
+}
+
+.con {
+  width: 20%;
+  float: left;
+  margin-right: 0;
+}
